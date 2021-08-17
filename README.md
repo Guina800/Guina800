@@ -4,7 +4,7 @@ I am an information security student with a focus on pentest ,CTF player and bug
 
  Technologies and tools that I have experience
 
-Computer network
+<br>Computer network
 Database(MySQL)
 bash script;
 python;
